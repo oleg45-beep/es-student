@@ -1,5 +1,0 @@
-# CMake generation dependency list for this directory.
-C:/Repositories/pico/pico-sdk/src/rp2040/pico_platform/memmap_default.cmake
-C:/Repositories/pico/pico-sdk/src/rp2_common/pico_standard_link/CMakeLists.txt
-C:/Repositories/pico/pico-sdk/src/rp2_common/pico_standard_link/pico_flash_region.template.ld
-C:/Repositories/pico/pico-sdk/src/rp2_common/pico_standard_link/pico_psram_region.template.ld
