@@ -3,7 +3,6 @@ cmake_minimum_required(VERSION 3.15)
 set(PICO_BOARD pico)
 set(PICO_PLATFORM rp2040)
 
-set(PICO_SDK_PATH "C:/Repositories/pico/pico-sdk")
 
 include(pico_sdk_import.cmake)
 
